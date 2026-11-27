@@ -213,4 +213,4 @@ This repository serves as the official landing page for Cyberlink MediaEspresso.
 **Get the most recent version of Cyberlink MediaEspresso today!**
 
 ---
-**Last updated:** 2026-11-27 04:51:23 UTC
+**Last updated:** 2026-11-27 14:47:45 UTC
